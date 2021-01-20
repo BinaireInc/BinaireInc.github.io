@@ -1,2 +1,1 @@
-# binairelabs.github.io
-Binaire Pvt. Ltd. Website
+# Binaire Website
